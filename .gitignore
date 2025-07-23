@@ -3,3 +3,5 @@ sql/postgres/data/*
 sql/.idea/*
 analytics/*
 lib/*
+Python/
+realworld/
