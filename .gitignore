@@ -1,6 +1,6 @@
-sql/mysql/data/*
-sql/postgres/data/*
-sql/.idea/*
+sql_study/mysql/data/*
+sql_study/postgres/data/*
+sql_study/.idea/*
 analytics/*
 lib/*
 Python/
