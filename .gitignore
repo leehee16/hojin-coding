@@ -1,5 +1,5 @@
-sql_study/mysql/data/*
-sql_study/postgres/data/*
+#sql_study/mysql/data/*
+#sql_study/postgres/data/*
 sql_study/.idea/*
 analytics/*
 lib/*
