@@ -5,3 +5,5 @@ analytics/*
 lib/*
 Python/
 realworld/
+venv
+.DS_Store
