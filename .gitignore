@@ -7,3 +7,10 @@ Python/
 realworld/
 venv
 .DS_Store
+
+# 폴더
+superset/
+customer-analytics/
+data-engineering-zoomcamp/
+front-study/
+kaggle-study/
