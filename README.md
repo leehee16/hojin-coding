@@ -6,9 +6,6 @@
   나의 학습 기록
   
   <br>
-  
-  **코딩 여정 기록 공간**
-  
   [![GitHub Last Commit](https://img.shields.io/github/last-commit/leehee16/hojin-coding?style=flat-square&color=FF6B6B)](https://github.com/leehee16/hojin-coding)
   [![GitHub Repo Size](https://img.shields.io/github/repo-size/leehee16/hojin-coding?style=flat-square&color=4ECDC4)](https://github.com/leehee16/hojin-coding)
   
@@ -37,6 +34,7 @@
   ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
   
   ### Frontend
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -45,8 +43,6 @@
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-  ### Reverse-engineering
-  ![Apache Superset](https://img.shields.io/badge/Apache%20Superset-20A6C9?style=for-the-badge&logo=apache&logoColor=white)
   
 </div>
 
