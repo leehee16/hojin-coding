@@ -132,7 +132,6 @@ programming/superset/*
 programming/airflow/*
 programming/reverse-engineering/*
 
-language/sql_study/*
 language/python_cookbook/*
 
 data/analytics/*
