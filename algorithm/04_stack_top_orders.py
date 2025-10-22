@@ -14,8 +14,6 @@ def get_receiver_top_orders(heights):
 
 
 
-
-
 print(get_receiver_top_orders(top_heights))  # [0, 0, 2, 2, 4] 가 반환되어야 한다!
 
 print("정답 = [0, 0, 2, 2, 4] / 현재 풀이 값 = ",get_receiver_top_orders([6,9,5,7,4]))
