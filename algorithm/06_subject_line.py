@@ -16,16 +16,7 @@ def first_catch_me(cony_loc, brown_loc):
     return time
 
 def catch_me(cony_loc, brown_loc):
-    time = 0
-    brown_que = deque()
-    brown_dict = {time:brown_que}
 
-    while cony_loc <= 200000 and cony_loc > brown_loc:
-        time += 1
-        cony_loc += time
-        
-    
-    return time
 
 
 

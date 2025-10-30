@@ -1,0 +1,13 @@
+import sys
+input = sys.stdin.readline
+
+N, K = map(int, input().split())
+items = [tuple(map(int, input().split())) for _ in range(N)]
+
+dp = [0] * (K + 1)
+
+for w, v in items:
+    for weight in range(K, w - 1, -1):  # 뒤에서부터 탐색 (중복 방지)
+        dp[weight] = max(dp[weight], dp[weight - w] + v)
+
+print(dp[K])
