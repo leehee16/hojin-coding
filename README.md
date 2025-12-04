@@ -55,27 +55,3 @@ git status # fetch후에 상태확인, behind == 커미할게 있음
 
   
 </div>
-
----
-
-## 📚 폴더 구조
-
-### language/
-- **python_cookbook/** - Python 알고리즘 및 자료구조 학습
-- **python_study/** - Python 문제 풀이 및 연습
-- **sql_study/** - SQL 학습 자료
-
-### data/
-- **analytics/** - 데이터 분석 프로젝트
-- **kaggle-study/** - Kaggle 대회 참여 및 학습
-- **data-engineering-zoomcamp/** - 데이터 엔지니어링 부트캠프
-
-### programming/
-- **front-study/** - 프론트엔드 개발 학습
-- **superset/** - Apache Superset 관련 리버스 엔지니어링 자료
-
-### lib/
-- 유틸리티 스크립트 및 도구
-
-## 📝 License
-Personal learning repository
