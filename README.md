@@ -2,6 +2,13 @@
 1. git pull
 2. uv sync
 3. uv add로 의존성 주입할 것
+
+```
+git fetch # 커밋 할 게 있는지 확인
+git log HEAD..origin/main --oneline #커밋 메세지 확인
+git status # fetch후에 상태확인, behind == 커미할게 있음
+```
+
 <div align="center">
   
   ### 📚 Personal Learning Repository
