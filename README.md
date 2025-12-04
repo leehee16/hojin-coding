@@ -1,5 +1,7 @@
 # 🚀 hojin-coding
-
+1. git pull
+2. uv sync
+3. uv add로 의존성 주입할 것
 <div align="center">
   
   ### 📚 Personal Learning Repository
