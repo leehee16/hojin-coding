@@ -37,6 +37,6 @@ if __name__ == "__main__":
     stack = Stack()
     stack.push(10)
     stack.push("안녕")
-    stack.push("push")
+    stack.push("push-")
     print(stack.pop())
     print(stack)
